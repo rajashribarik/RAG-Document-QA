@@ -1,3 +1,4 @@
-# RAG-Document-QA
+# Retrieval-Augmented Generation (RAG) System
 
-Retrieval-Augmented Generation demo project.
+●	Developed an AI document Q&A system using LangChain, FAISS, and Hugging Face models.
+●	Built a Streamlit interface with retrieval-based response generation.
